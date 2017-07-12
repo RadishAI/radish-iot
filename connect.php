@@ -1,10 +1,10 @@
 <?php
 
 	function Connection(){
-		$server="server";
-		$user="user";
-		$pass="pass";
-		$db="database";
+		$server="160.153.16.46";
+		$user="radishiot";
+		$pass="radishiot@123";
+		$db="radishiot";
 	   	
 		$connection = mysql_connect($server, $user, $pass);
 
