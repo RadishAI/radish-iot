@@ -6,3 +6,7 @@ https://medium.freecodecamp.org/tracking-analyzing-over-200-000-peoples-every-st
 https://learn.adafruit.com/tmp36-temperature-sensor/using-a-temp-sensor
 
 https://bost.ocks.org/mike/bar/
+
+
+First Project
+Plant automated watering using esp
